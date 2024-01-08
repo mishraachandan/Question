@@ -1,2 +1,2 @@
-# Question
-This is the Question Service.
+# Quiz
+This is the Quiz Service.
